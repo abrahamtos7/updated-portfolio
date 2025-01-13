@@ -1,0 +1,81 @@
+#title {
+    background: #b9936c;
+    height: 100vh;
+}
+.top-container{
+    padding-top: 3rem;
+    padding-left: 2rem;
+    padding-bottom: 120px;
+}
+
+.bottom-container{
+    padding-top: 130px;
+    padding-right: 2rem;
+    padding-bottom: 40px;
+    float: right;
+}
+
+.mid-container{
+    height: 100px;
+    width: auto;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-style: italic;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.pro{
+    margin-left: 5px;
+}
+
+.sub-head{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-style: italic;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: #fff;
+}
+
+.profile-img{
+    border-radius: 50%;
+    height: 200px;
+}
+
+.heart{
+    margin-left: 5px;
+}
+
+#skills{
+    background: #dac292;
+}
+
+h2{
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.laptop{
+    float: right;
+    height: 200px;
+    width: 150px;
+    margin-bottom: 100px;
+}
+
+.me{
+    font-size: 20px;
+}
+
+#contact{
+    background: #fefbd8;
+}
+
+#footer{
+    background: #b9936c;
+    padding: 50px 0 20px;
+}
